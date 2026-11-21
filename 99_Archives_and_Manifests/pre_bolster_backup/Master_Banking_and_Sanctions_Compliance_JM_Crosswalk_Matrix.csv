@@ -1,0 +1,6 @@
+instrument_id,sector,anchor,claim_vector,evidence_status,status
+JM-BAN-01,Banking and Sanctions Compliance,Slavery and plantation extraction legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+JM-BAN-02,Banking and Sanctions Compliance,Structural adjustment and debt burden (public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+JM-BAN-03,Banking and Sanctions Compliance,CARICOM reparations movement context,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+JM-BAN-04,Banking and Sanctions Compliance,Slavery and plantation extraction legacy,Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
+JM-BAN-05,Banking and Sanctions Compliance,Structural adjustment and debt burden (public record),Pending evidentiary development,PENDING_PRIMARY_SOURCE,SCAFFOLDED
