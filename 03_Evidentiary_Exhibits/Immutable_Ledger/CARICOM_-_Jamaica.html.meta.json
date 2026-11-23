@@ -1,0 +1,17 @@
+{
+  "url": "https://caricom.org/country_profiles/jamaica/",
+  "final_url": "https://caricom.org/country_profiles/jamaica/",
+  "title": "CARICOM - Jamaica",
+  "fetched_at": "2026-11-23T15:33:17.993277Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 345693,
+  "sha256": "2f78aa3a9923327adf4bec56f4523f38aa3fee0b1ab5f8244ddf895b682f4518",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}

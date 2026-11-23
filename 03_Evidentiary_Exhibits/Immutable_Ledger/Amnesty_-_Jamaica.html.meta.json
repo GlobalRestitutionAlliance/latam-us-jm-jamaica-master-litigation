@@ -1,0 +1,17 @@
+{
+  "url": "https://www.amnesty.org/en/location/americas/central-america-and-the-caribbean/jamaica/",
+  "final_url": "https://www.amnesty.org/en/location/americas/central-america-and-the-caribbean/jamaica/",
+  "title": "Amnesty - Jamaica",
+  "fetched_at": "2026-11-23T15:33:17.311904Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=UTF-8",
+  "bytes": 100740,
+  "sha256": "6b50c4e8170a1defe035624042ffa7b0e1b8676d77dde829794e5eca2b08667e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
